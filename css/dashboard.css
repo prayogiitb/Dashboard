@@ -40,7 +40,7 @@ font
 }
 .title
 {
-	height: 50px;
+	height: fit-content;
 }
 .main__header
 {
